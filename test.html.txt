@@ -1,9 +1,9 @@
 <html>
 <head>
-<title>Hello GitHub<title/>
+<title>Hello Git<title/>
 <head/>
 <body>
-	Hello GitHub
+	Hello Git
 <body/>
 <head/>
 </html>
